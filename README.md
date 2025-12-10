@@ -46,15 +46,6 @@ Hi! I'm Felipe, a university professor and academic researcher currently pursuin
   <img src="https://img.shields.io/badge/-DDI%20METADATA%20STANDARD-1565C0?style=for-the-badge&logo=semanticweb&logoColor=white"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://SEU-VERCEL-APP.vercel.app/api?username=FelipIvo&show_icons=true&theme=transparent&count_private=true&cache_seconds=14400"/>
-  <img height="150em" src="https://SEU-VERCEL-APP.vercel.app/api/top-langs/?username=FelipIvo&layout=compact&theme=transparent&cache_seconds=14400"/>
-</p>
-
 
 ---
 
