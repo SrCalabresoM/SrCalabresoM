@@ -36,7 +36,7 @@ Hi! I'm Felipe, a university professor and academic researcher currently pursuin
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://www.codewars.com/users/SrCalabresoM/badges/large"/>
   <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-LATEX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
