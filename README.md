@@ -53,8 +53,7 @@ Atualmente, concentro meus estudos principalmente em <strong>Python</strong> e <
   <a href="https://www.linkedin.com/in/joão-pedro-iannoni-milaré" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:jpmilare@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jpmilare@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
