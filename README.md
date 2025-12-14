@@ -9,7 +9,7 @@
 
 ---
 
-<h3>👋 Sobre mim</h3>
+<h3>Sobre mim</h3>
 
 <p>
 Sou <strong>João Pedro</strong>, estudante do <strong>Ensino Médio Técnico na ETEC Paulino Botelho</strong>, no curso de <strong>Técnico em Informática para Internet</strong>. Tenho interesse em desenvolvimento de software, automações e desenvolvimento web, buscando sempre evoluir por meio da prática e do estudo contínuo.
@@ -21,7 +21,7 @@ Atualmente, concentro meus estudos principalmente em <strong>Python</strong> e <
 
 ---
 
-<h3>💻 Stack</h3>
+<h3>Stack</h3>
 
 <h4>Linguagens principais</h4>
 <p>
@@ -39,7 +39,7 @@ Atualmente, concentro meus estudos principalmente em <strong>Python</strong> e <
 
 ---
 
-<h3>🧠 Codewars</h3>
+<h3>Codewars</h3>
 
 <p align="center">
   <img src="https://www.codewars.com/users/SrCalabresoM/badges/large"/>
@@ -49,13 +49,11 @@ Atualmente, concentro meus estudos principalmente em <strong>Python</strong> e <
 
 <p align="center"><i>Construindo base técnica com consistência e prática.</i></p>
 
-  <a href="https://www.linkedin.com/in/felipe-ivo" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/joão-pedro-iannoni-milaré" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:felipe_ivodasilva@hotmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:jpmilare@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://felipivo.github.io/portifolio.github.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
+  
 </p>
